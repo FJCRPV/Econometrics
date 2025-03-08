@@ -1,3 +1,3 @@
-# Econometrics Project
+# Econometrics
 
-Please refer to the PDF Report of the project.
+Project developed in light of the course.
